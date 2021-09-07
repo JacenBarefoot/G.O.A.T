@@ -1,0 +1,97 @@
+img {
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+    background-color: white;
+    padding: 5px;
+    width: 300px;
+}
+
+body{
+    background: url(images/tonyhawk4.gif);
+    background-attachment: fixed;
+    background-size: 1500px;
+}
+
+
+.textbox{
+    font-size: 25px;
+    background-color: white;
+    margin-left: auto;
+    padding: 10px;
+    display: block;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+.style {
+    max-width: 40em;
+    margin: auto;
+    padding: 2rem;
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: Arial;
+}
+.textbox2{
+    background-color: white;
+    margin-left: auto;
+    padding: 17px;
+    display: block;
+    margin-right: auto;
+    text-align: center;
+}
+
+.textbox3{
+    background-color: white;
+    margin-left: auto;
+    padding: 15px;
+    display: block;
+    margin-right: auto;
+}
+
+#circle {
+    border-radius: 50%;
+    padding: 5px;
+    width: 110px;
+    height: 110px;
+}
+
+#profile {
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
+img:hover{
+    box-shadow: 0 0 100px rgb(47, 182, 245);
+}
+
+.leftlinks{
+    float: left;
+}
+
+.textbox5{
+    font-size: 20px;
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.textbox6{
+    background-color: white;
+    padding: 15px;
+}
+
+.textbox7{
+    background-color: white;
+    padding: 15px;
+}
+
+main {
+    max-width: 30em;
+    margin: auto;
+}
